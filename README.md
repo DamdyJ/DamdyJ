@@ -37,5 +37,5 @@
   <br/>
   <h2>My Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamdyJ" alt="top langs"/>
-  <img src="https://streak-stats.demolab.com/?user=DamdyJ&card_height=205" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=DamdyJ&card_width=550&card_height=205" alt="GitHub streak stats"/>
 </div>
