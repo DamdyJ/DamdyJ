@@ -30,7 +30,7 @@
 <div align="center">
   <br/>
   <h2>My Contribution</h2>
-  <img src="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake-dark.svg" alt="snake svg" target="_blank"/>
+  <img src="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake.svg" alt="snake svg" target="_blank"/>
 </div>
 
 <div align="center">
