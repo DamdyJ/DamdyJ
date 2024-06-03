@@ -13,7 +13,7 @@
 <div align="center">
   <br/>
   <h2>Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs,nodejs,npm,express,typescript,mysql,postman&perline=12" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,vite,nextjs,nodejs,npm,express,typescript,mysql,postgresql,mongodb,prisma,postman,figma,git,github,vercel,supabase,python,cpp,java&perline=12" alt="skills"/>
 </div>
 
 <div align="center">
