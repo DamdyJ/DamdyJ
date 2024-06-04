@@ -8,6 +8,7 @@
   <p>
     I'm <strong>Damdy</strong> from Indonesia, majoring in <strong>Computer Science</strong>. I'm passionate about front-end and back-end web development. I enjoy creating visually appealing and user-friendly web applications. I'm dedicated to continuous learning and love exploring new technologies and innovations in web development but also exploring various other domains.
   </p>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDamdyJ&label=Visitor&countColor=%23263759"/>
 </div>
 
 <div align="center">
