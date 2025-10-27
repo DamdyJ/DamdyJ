@@ -31,7 +31,11 @@
 <div align="center">
   <br/>
   <h2>My Contribution</h2>
-  <img src="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake.svg" alt="snake svg" target="_blank"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/DamdyJ/DamdyJ/blob/output/github-contribution-grid-snake.svg" alt="snake svg" target="_blank"/>
+  </picture>
 </div>
 
 <div align="center">
