@@ -37,6 +37,6 @@
 <div align="center">
   <br/>
   <h2>My Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamdyJ" alt="top langs"/>
-  <img src="https://streak-stats.demolab.com/?user=DamdyJ&card_height=245" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamdyJ&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://streak-stats.demolab.com/?user=DamdyJ&theme=tokyonight&card_height=245&hide_border=true" alt="GitHub streak stats"/>
 </div>
