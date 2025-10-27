@@ -24,7 +24,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/github/black/white" alt="github"/>
   </a>
   <a href="https://www.linkedin.com/in/damdy-junaedi">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/black/white" alt="linkedin"/>
+    <img height="40" width="40" src="./assets/linkedin.png" alt="linkedin"/>
   </a>
 </div>
 
@@ -38,5 +38,5 @@
   <br/>
   <h2>My Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamdyJ" alt="top langs"/>
-  <img src="https://streak-stats.demolab.com/?user=DamdyJ&card_height=205" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=DamdyJ&card_height=245" alt="GitHub streak stats"/>
 </div>
